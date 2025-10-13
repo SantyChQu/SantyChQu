@@ -1,17 +1,17 @@
-## Hi there 👋
+
 
 
 ## 👋 Mis Proyectos
 
 ---
 
-### 🔹 [Programación Concurrente](https://github.com/SantyChQu/Programacion-Concurrente)
-Repositorio con ejercicios y ejemplos prácticos sobre programación concurrente en distintos lenguajes.
+### 🔹 [Gestion de Alquiler de Maquinarias](https://github.com/SantyChQu/ProyectoAlquilerMaquinarias)
+
 
 ---
 
-### 🔹 [Otro Proyecto](#)
-Descripción breve de tu otro proyecto. Podés agregar lo que quieras acá.
+### 🔹 [Gestion de Biblioteca](https://github.com/SantyChQu/)Gestion-Biblioteca-.NET)
+
 
 
 
