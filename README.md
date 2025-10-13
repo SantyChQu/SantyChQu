@@ -10,7 +10,7 @@
 
 ---
 
-### 🔹 [Gestion de Biblioteca](https://github.com/SantyChQu/)Gestion-Biblioteca-.NET)
+### 🔹 [Gestion de Biblioteca](https://github.com/SantyChQu/Gestion-Biblioteca-.NET)
 
 
 
