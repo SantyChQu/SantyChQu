@@ -31,7 +31,14 @@ Herramientas/Tecnologias usadas:
 #C,Blazor,Razor,SQlite,EntityFramework,html,CSS
 
 
-
+### 🔹 [Gestion de Sitios Historicos](https://github.com/SantyChQu/ProyectoSitiosHistoricos)
+Descripcion:
+Desarrollo grupal de un portal web público como parte del Trabajo Integrador 2025 de la cátedra Proyecto de Software.
+La aplicación permite visualizar sitios históricos destacados, acceder a reseñas, calificaciones y mapas interactivos desde cualquier dispositivo.
+Incluye un home con secciones destacadas, listados con búsqueda avanzada y filtros, páginas de detalle con galería y mapa, y funcionalidades de autenticación y perfil de usuario para gestionar favoritos y reseñas.
+ 
+Herramientas/Tecnologias usadas:
+Vue 3, JavaScript, HTML, CSS, Python, Flask, PostgreSQL, API REST
 
 
 
