@@ -41,7 +41,12 @@ Herramientas/Tecnologias usadas:
 Vue 3, JavaScript, HTML, CSS, Python, Flask, PostgreSQL, API REST
 
 
-
+### 🔹 [Portfolio](https://github.com/SantyChQu/Portfolio-Deploy)
+Descripcion:
+Portfolio Personal para presentacion de proyectos
+ 
+Herramientas/Tecnologias usadas:
+React
 
 
 
